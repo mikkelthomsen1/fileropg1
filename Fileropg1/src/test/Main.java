@@ -17,7 +17,7 @@ public class Main {
 	      System.out.println( "Filen findes ikke: " + filename );
 	    }
 	    catch ( IOException e ) {
-	      System.out.println( "Der opstod fejl under l?sning fra: " + filename );
+	      System.out.println( "Der opstod fejl under læsning fra: " + filename );
 	    }
 	    }
 	}
